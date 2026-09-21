@@ -1,3 +1,0 @@
-How to tell a model is hallucinating: it states a specific, checkable detail (a function, flag, parameter, or fact) with full confidence and no hedging, but the detail doesn't actually exist or is wrong when you verify it against the real source.
-
-Technique to reduce it: ground the model by giving it the source text directly and instructing it to answer only from that text, saying so explicitly if the answer isn't present - this was shown in Exercise 2, where the model correctly refused to answer a question whose answer wasn't in the provided passage.
