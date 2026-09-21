@@ -1,3 +1,0 @@
-A prompt is "reusable" when it fixes the instruction and output shape while leaving only a clear placeholder (like {INPUT} or [code]) to swap out, so different inputs consistently produce the same structure.
-
-The most useful pattern was the instructional pattern (step-by-step, e.g. "Explain this in 4 steps for a teammate") - it consistently forced scannable, structured output instead of a dense paragraph, no matter what code was passed in.
