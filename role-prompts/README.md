@@ -1,0 +1,3 @@
+A role genuinely helps when the task benefits from a specific communication style or focus — like a patient tutor pacing an explanation for a beginner, or a critic actively hunting for weak points you'd otherwise miss.
+
+The main risk is that a role changes voice and confidence, not correctness — a "senior reviewer" or any other role can still miss bugs, state wrong facts, or let content drift, so its output still needs to be checked, not trusted just because it sounds authoritative.
